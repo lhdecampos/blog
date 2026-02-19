@@ -1,3 +1,5 @@
+import "./styles.css"
+
 const Footer = () => {
   return <footer>&copy; Luis Henrique</footer>;
 };
